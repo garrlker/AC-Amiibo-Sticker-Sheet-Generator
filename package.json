@@ -1,0 +1,22 @@
+{
+  "name": "ac-amiibo-sticker-sheet-generator",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "puppeteer": "^11.0.0",
+    "rollup-plugin-execute": "^1.1.1",
+    "sass": "^1.43.4",
+    "shelljs": "^0.8.4",
+    "vite": "^2.6.4",
+    "vite-plugin-inspect": "^0.3.10",
+    "websocket": "^1.0.34"
+  }
+}
